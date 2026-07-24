@@ -18,5 +18,5 @@ Native macOS · TypeScript · JavaScript · React · Astro · HTML/CSS · Techni
 ## 📫 Reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marlon-salomon-coreas-villanueva-8b0416161)
-- ✉️ [support@peekcompress.com](mailto:support@peekcompress.com)
+- ✉️ [hello@marloncoreas.com](mailto:hello@marloncoreas.com)
 - 🌎 English / Español
