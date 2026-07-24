@@ -2,7 +2,7 @@
 
 Independent software engineer building **native products** and **high-performance web experiences** — from product direction to shipped release, in English and Spanish.
 
-🌐 **Portfolio:** [mscoreas-portfolio.mcoreas279.chatgpt.site](https://mscoreas-portfolio.mcoreas279.chatgpt.site)
+🌐 **Portfolio:** [marloncoreas.com](https://marloncoreas.com)
 
 ## 🚀 What I've shipped
 
